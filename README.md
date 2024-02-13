@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoniojunnior)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoniojunnior&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antoniojunnior&repo=antoniojunnior)](https://github.com/anuraghazra/github-readme-stats&theme=radical&locale=pt-br)
 
